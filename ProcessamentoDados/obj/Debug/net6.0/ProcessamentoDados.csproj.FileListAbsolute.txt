@@ -1,0 +1,15 @@
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.exe
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.deps.json
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.runtimeconfig.json
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.dll
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\bin\Debug\net6.0\ProcessamentoDados.pdb
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.csproj.AssemblyReference.cache
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.AssemblyInfoInputs.cache
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.AssemblyInfo.cs
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.csproj.CoreCompileInputs.cache
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.dll
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\refint\ProcessamentoDados.dll
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.pdb
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ProcessamentoDados.genruntimeconfig.cache
+D:\Programação desktop\Processamento-de-dados\ProcessamentoDados\obj\Debug\net6.0\ref\ProcessamentoDados.dll
